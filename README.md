@@ -1,1 +1,2 @@
-# reto7-refactorizacion
+# reto7-refactorización
+Integrantes: Santiago Graciano David
